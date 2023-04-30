@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke Cooper</h1>
-<h3 align="center">A frontend developer and technical writer living in Chicago</h3>
+<h3 align="center">A frontend developer and technical writer (at AWS) living in Chicago</h3>
 
 - 🌱 I’m currently improving my **CSS** skills
 
