@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Luke Cooper</h1>
 <h3 align="center">A frontend developer and technical writer (at AWS) living in Chicago</h3>
 
-- 🌱 I’m currently improving my **vanilla CSS** skills
+- 🌱 I’m currently improving my **vanilla CSS** skills.
 
-- 👯 I’m looking to collaborate on **anything React or JavaScript based**
+- 👯 I’m looking to collaborate on **anything React or JavaScript based**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/lukec00per?tab=repositories](https://github.com/lukec00per?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/lukec00per?tab=repositories](https://github.com/lukec00per?tab=repositories).
 
-- 💬 Ask me about **React or JavaScript**
+- 💬 Ask me about **React or JavaScript**.
 
-- 📫 How to reach me **adams042297@gmail.com**
+- 📫 How to reach me **adams042297@gmail.com**.
 
 - ⚡ Fun facts I **produce music**, love **real estate**, and am originally from **Nashville, Tennessee**!
 
