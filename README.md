@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lukec00per?tab=repositories](https://github.com/lukec00per?tab=repositories).
 
-- 💬 Ask me about **React** or **JavaScript**.
-
 - 📫 How to reach me **adams042297@gmail.com**.
 
 - ⚡ Fun facts I **produce music**, love **real estate**, and am originally from **Nashville, Tennessee**!
