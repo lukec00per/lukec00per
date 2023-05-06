@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luke Cooper</h1>
-<h3 align="center">A frontend developer and technical writer (at AWS) living in Chicago</h3>
+<h3 align="center">A frontend developement enthusiast and AWS technical writer living in Chicago</h3>
 
-- 🌱 I’m currently improving my **vanilla CSS** skills.
+- 🌱 I’m currently improving my **pure CSS** and **Flutter** skills.
 
 - 👯 I’m looking to collaborate on **anything React or JavaScript based**.
 
