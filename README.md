@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adams042297@gmail.com**.
 
-- ⚡ Fun facts I **produce music**, love **real estate**, and am originally from **Nashville, Tennessee**!
+- ⚡ Fun facts: I **play the guitar**, love **real estate**, and am from **Nashville, Tennessee**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
