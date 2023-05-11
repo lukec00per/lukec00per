@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luke Cooper</h1>
+<h1 align="center">Howdy 👋, I'm Luke Cooper</h1>
 <h3 align="center">A web development enthusiast and AWS technical writer living in Chicago</h3>
 
 - 🌱 I’m currently improving my **pure CSS** and **Flutter** skills.
