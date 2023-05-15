@@ -1,7 +1,7 @@
 <h1 align="center">Howdy 👋, I'm Luke</h1>
 <h3 align="center">A web development enthusiast living in Chicago</h3>
 
-- 🌱 I’m currently improving my **pure CSS** and **Flutter** skills.
+- 🌱 I’m currently improving my **pure CSS**, **Flutter**, and **React UI component library** skills.
 
 - 👯 I’m looking to collaborate on **anything React or JavaScript based**.
 
