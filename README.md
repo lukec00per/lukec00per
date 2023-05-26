@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **anything React or JavaScript based**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/lukec00per?tab=repositories](https://github.com/lukec00per?tab=repositories).
-
 - 📫 How to reach me **adams042297@gmail.com**.
 
 - ⚡ Fun facts: I **play the guitar**, love **real estate**, and am from **Nashville, Tennessee**.
