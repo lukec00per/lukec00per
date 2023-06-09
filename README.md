@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm Luke</h1>
-<h3 align="center">A technical writer and web development enthusiast living in Chicago</h3>
+<h3 align="center">A web/mobile development enthusiast living in Chicago</h3>
 
 - 🌱 I’m currently improving my **Tailwind CSS** and **Flutter/Dart** skills.
 
