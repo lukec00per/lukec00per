@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on anything **React** or **JavaScript** based.
 
-- 📫 How to reach me **adams042297@gmail.com**.
-
 - ⚡ Fun facts: I **play the guitar**, enjoy **investing**, and am from **Nashville, Tennessee**.
 
 
