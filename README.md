@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on anything **React** or **JavaScript** based.
 
-- ⚡ Fun facts: I **play the guitar**, enjoy **investing**, and am from **Nashville, Tennessee**.
+- ⚡ Fun facts: I play the **guitar**, enjoy **investing**, and am from **Nashville, Tennessee**.
 
 
 <h3 align="left">Languages and Tools:</h3>
