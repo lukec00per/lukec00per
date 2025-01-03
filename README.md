@@ -1,9 +1,9 @@
 <h1 align="center">Howdy 👋, I'm Luke</h1>
 <h3 align="center">A web and mobile development enthusiast in Nashville, TN</h3>
 
-- 🌱 I’m currently improving my **Tailwind CSS**, **TypeScript**, and **React Native** skills.
+- 🌱 I'm currently improving my **Tailwind CSS**, **TypeScript**, and **React Native** skills.
 
-- 👯 I’m looking to collaborate on anything **React** or **JavaScript** based.
+- 👯 I'm looking to collaborate on anything **React** or **JavaScript** based.
 
 - ⚡ Fun facts: I play the **guitar** and enjoy **investing**.
 
